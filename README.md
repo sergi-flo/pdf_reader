@@ -1,4 +1,4 @@
-# pdf_reader App to read pdfs and export information
+# App to read pdfs and export information
 
 ## Requeriments
 
