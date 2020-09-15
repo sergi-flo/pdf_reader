@@ -1,4 +1,4 @@
-# App to read pdfs and export information
+# App to read pdfs and export information by Sergi Flo
 
 ## Requeriments
 
