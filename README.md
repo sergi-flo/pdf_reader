@@ -2,7 +2,7 @@
 
 ## Requeriments
 
-- Before installing the requeriments.txt file, you should have installed poppler and pkg-config in your computer. To do so in a MACOSX computer just verify if you have brew with the command:
+Before installing the requeriments.txt file, you should have installed poppler and pkg-config in your computer. To do so in a MACOSX computer just verify if you have brew with the command:
 ```
 which brew
 ```
@@ -12,7 +12,7 @@ brew install poppler
 brew install pkg-config
 ```
 
-- Install the requeriments.txt using the following command:
+Install the requeriments.txt using the following command:
 
 ```
 pip install -r requirements.txt
